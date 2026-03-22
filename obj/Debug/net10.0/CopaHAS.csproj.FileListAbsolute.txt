@@ -1,0 +1,66 @@
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\appsettings.Development.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\appsettings.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.staticwebassets.endpoints.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.exe
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.deps.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.runtimeconfig.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.dll
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.pdb
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\kaua_julia_3AI\PAM2\CopaHAS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.csproj.AssemblyReference.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.AssemblyInfoInputs.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.AssemblyInfo.cs
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.csproj.CoreCompileInputs.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.MvcApplicationPartsAssemblyInfo.cs
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.MvcApplicationPartsAssemblyInfo.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\scopedcss\bundle\CopaHAS.styles.css
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.build.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.development.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\swae.build.ex.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.csproj.Up2Date
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.dll
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\refint\CopaHAS.dll
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.pdb
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.genruntimeconfig.cache
+D:\kaua_julia_3AI\PAM2\CopaHAS\obj\Debug\net10.0\ref\CopaHAS.dll
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\appsettings.Development.json
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\appsettings.json
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.staticwebassets.endpoints.json
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.exe
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.deps.json
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.runtimeconfig.json
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.dll
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\CopaHAS.pdb
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\3 AI\PAM2\CopaHAS\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.csproj.AssemblyReference.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.AssemblyInfoInputs.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.AssemblyInfo.cs
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.csproj.CoreCompileInputs.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.MvcApplicationPartsAssemblyInfo.cs
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.MvcApplicationPartsAssemblyInfo.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\scopedcss\bundle\CopaHAS.styles.css
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.build.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.development.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\swae.build.ex.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.csproj.Up2Date
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.dll
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\refint\CopaHAS.dll
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.pdb
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\CopaHAS.genruntimeconfig.cache
+D:\3 AI\PAM2\CopaHAS\obj\Debug\net10.0\ref\CopaHAS.dll
